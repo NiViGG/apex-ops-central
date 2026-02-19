@@ -1,0 +1,22 @@
+{
+  "name": "apex-ops-central",
+  "version": "1.0.0",
+  "description": "Apex Ops Central Mobile App",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Building web app'",
+    "dev": "echo 'Dev server'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/app": "^6.0.0",
+    "@capacitor/status-bar": "^6.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.0.0"
+  }
+}

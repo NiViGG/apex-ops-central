@@ -1,0 +1,13 @@
+{
+  "appId": "com.nivigg.apexops",
+  "appName": "Apex Ops Central",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "CapacitorStatusBar": {
+      "style": "dark"
+    }
+  }
+}

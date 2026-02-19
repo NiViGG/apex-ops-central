@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Apex Ops Central</string>
+    <string name="title_activity_main">Apex Ops Central</string>
+    <string name="package_name">com.nivigg.apexops</string>
+    <string name="custom_url_scheme">com.nivigg.apexops</string>
+</resources>
