@@ -4,7 +4,7 @@
   "description": "Apex Ops Central Mobile App",
   "main": "index.js",
   "scripts": {
-    "build": "echo 'Building web app'",
+    "build": "mkdir -p dist && cp index.html dist/",
     "dev": "echo 'Dev server'"
   },
   "keywords": [],
